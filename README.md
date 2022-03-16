@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkselRoca
 - 👀 I’m interested in IT development, e-commerce & cryptocurrencies 
-- 🚧 I'm looking for a 2 month internship in web development
+- 🚧 I'm looking for a 2 month internship in web development to validate my bachelor's degree
 - 🌱 I’m currently learning front-end ReactJS & Python
 - 💞️ I'm looking to collaborate on projects with others to improve myself
 - 📫 How to reach me : aksel.roca@hotmail.com
