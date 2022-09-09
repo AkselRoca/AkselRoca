@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkselRoca
 - 👀 I’m interested in IT development, e-commerce & cryptocurrencies 
-- 🚧 I'm looking for a front-end job
-- 🌱 I’m currently learning front-end, ReactJS & Python
+- 🚧 I'm looking for a job as a developper 
+- 🌱 I’m currently learning Tailwind CSS, TypeScript, JS & Python
 - 💞️ I'm looking to collaborate on projects with others to improve myself
 - 📫 How to reach me : aksel.roca@hotmail.com
 
