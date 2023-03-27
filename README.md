@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkselRoca
-- 👀 I’m interested in IT development, e-commerce & cryptocurrencies 
+- 👀 I’m interested in IT development, e-commerce & webmarketing
 - 🚧 I'm looking for a job as a developper 
 - 💞️ I'm looking to collaborate on projects with others to improve myself
 - 📫 How to reach me : aksel.roca@hotmail.com
